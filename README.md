@@ -1,4 +1,4 @@
-# AmazonJuniorDev
-Amazon Junior Developer Cource Projects.
+# AmazonJuniorSoftwareDev
+Amazon Junior Software Developer Proffessional Certificate program's  Cource Projects.
 
-Full Stack Web Development - To Do Rail
+cource 6 - Full Stack Web Development - To Do Rail
